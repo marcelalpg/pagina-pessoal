@@ -11,7 +11,7 @@ body {
 header {
     display: flex;
     flex-direction: column;
-    align-items: center;c
+    align-items: center;
     color: #85807c;
     text-transform: uppercase;
     font-size: 35px;
